@@ -1,4 +1,4 @@
-# LifePins :round_pushpin:
+# AidPins :round_pushpin:
 
 Map app that lets users who need help in the event of disasters find a place where they can get help.
 
